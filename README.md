@@ -30,6 +30,7 @@ print('Row:',len(f.axes[0]))
 print('Col:',len(f.axes[1]))
 ```
 ## OUTPUT:
+![mmm]("C:\Users\SEC\Downloads\mmm.png")
 
 
 
