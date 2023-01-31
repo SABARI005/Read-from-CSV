@@ -30,8 +30,7 @@ print('Row:',len(f.axes[0]))
 print('Col:',len(f.axes[1]))
 ```
 ## OUTPUT:
-![mmm]("C:\Users\SEC\Downloads\mmm.png")
-
+![mmm](https://user-images.githubusercontent.com/118660461/215701133-88148392-0636-41d2-8745-c3bee681236c.png)
 
 
 
